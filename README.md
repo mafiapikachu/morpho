@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <h1 class="neon" data-text="⚡️𖣘🅣ᴇᴀᴍ࿐M☯ℝקⲎⲞ★᭄𖣘"> ⚡️𖣘🅣ᴇᴀᴍ࿐M☯ℝקⲎⲞ★᭄𖣘
+  <h1 class="neon" data-text="TEAM MORPHO USERBOT"> TEAM MORPHO USERBOT
 </h1>
 
 
