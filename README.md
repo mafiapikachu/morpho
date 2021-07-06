@@ -1,5 +1,5 @@
 
-⚡️𖣘🅣ᴇᴀᴍ࿐M☯ℝקⲎⲞ★᭄𖣘⚡️Ữ𝓢єⓇᗷＯ𝐓
+
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
@@ -9,7 +9,7 @@
 
 
 
-# 𝚃𝙷𝙴 BIHARI PIKA OP
+# ⚡️𖣘🅣ᴇᴀᴍ࿐M☯ℝקⲎⲞ★᭄𖣘⚡️Ữ𝓢єⓇᗷＯ𝐓
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
  BIHARI PIKA OP bot made by @biharibabuhu. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/bihari_pika_bot_support THANKS FOR VISITING OUR REPO💖
