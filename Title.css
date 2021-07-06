@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+html{
+	height: 100%;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background: url(img/ppp.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Quicksand', sans-serif;
+}
+.neon {
+	position: absolute;
+	text-align: center;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+	padding:  0 20px;
+	font-size: 4em;
+	color: #fff;
+	text-shadow: 0 0 20px #00aced;
+}
+.neon:after {
+	content: attr(data-text);
+	position: absolute;
+	z-index: -1;
+	color: #00aced;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding:  0 20px;
+	filter: blur(15px); 
+}
+.neon:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #1dcaff;
+	z-index: -2;
+	opacity: .5;
+	filter: blur(80px);
+}
