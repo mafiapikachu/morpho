@@ -13,7 +13,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
  BIHARI PIKA OP bot made by @biharibabuhu. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/bihari_pika_bot_support THANKS FOR VISITING OUR REPO💖
-[![BIHARI PIKA OP](https://telegra.ph/file/670f16a1fcbb307f8570a.jpg)](https://t.me/bihari_pika_bot_support)
+[![BIHARI PIKA OP](https://telegra.ph/file/470a3022707e85c39aa21.jpg)](https://t.me/bihari_pika_bot_support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
