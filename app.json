@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/mafiapikachu/morpho/",
+  "website": "https://github.com/mafiapikachu/morpho/",
+  "success_url": "https://t.me/morpho_userbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,13 +23,13 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @biharibabuhu. By default it is Team Morpho User",
+      "value": "@morpho_userbot",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈MOrPHO BoT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,12 +44,12 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/470a3022707e85c39aa21.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
+      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE OTHER wise you block!",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
@@ -96,7 +96,7 @@
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-1001174481876"
+      "value": "-1001569357881"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
@@ -104,7 +104,7 @@
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-1001174481876"
+       "value": "-1001569357881"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@morpho_user_bot"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
@@ -154,7 +154,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "🤖",
+      "value": "🧟",
       "required": false
     }, 
     "TZ": {
